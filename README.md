@@ -8,4 +8,4 @@ Gave sessions at [Python for ML and AI Summit 2021](https://python.geekle.us/) h
 Gave lecture for undergraduate engineering students at [SDNB Vaishnav College for Women, Chennai](https://www.sdnbvc.edu.in/)\[Affiliated to University of Madras\] in January '21
 
 # [Natural Language Processing](https://www.youtube.com/watch?v=E_JYzytu8dI)
-Gave 2 lectures at [Jawaharlal Nehru Technological University, Hyderabad](https://www.sdnbvc.edu.in/)\[Affiliated to University of Madras\] in November '20
+Gave 2 lectures at [Jawaharlal Nehru Technological University, Hyderabad](https://www.sdnbvc.edu.in/) in November '20
