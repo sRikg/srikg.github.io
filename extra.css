@@ -1,12 +1,19 @@
-img[alt$=">"] {
+img[alt$="align-right"] {
   float: right;
 }
 
-img[alt$="<"] {
+img[alt$="align-left"] {
   float: left;
 }
 
-img[alt$="><"] {
+img[alt$="align-center"] {
+  display: block;
+  width: 50%;
+  height: 50%;
+  float: none!important;
+}
+
+img[alt$="align-center1"] {
   display: block;
   max-width: 100%;
   height: auto;
