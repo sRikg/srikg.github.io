@@ -1,7 +1,7 @@
 # Srik Gorthy
 Srik (Srikanth) Gorthy's Online Portfolio
 
-![](/images/Geekle.PNG)
+<img style="float: right;" src="/images/Geekle.PNG">
 # Natural Language Processing - Approaching Text
 [Video Link](https://geekle.us/video_cluster/1618230100619x816683697887510500) \(Will redirect to Geekle.us Website\)
 
