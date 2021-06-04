@@ -7,7 +7,6 @@ img[alt$="align-left"] {
 }
 
 img[alt$="align-center"] {
-  display: block;
   width: 50%;
   height: 50%;
   float: none!important;
