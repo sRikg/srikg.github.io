@@ -7,7 +7,7 @@ Srik (Srikanth) Gorthy's Online Portfolio
 
 ##### BITS-Pilani, Hyderabad Campus]
 
-[<img src="/images/IIMB-logo.png" width="5%">](https://www.iimb.ac.in/
+[<img src="/images/IIMB-logo.png" width="5%">](https://www.iimb.ac.in/)
 
 ##### IIM, Bangalore]
 
