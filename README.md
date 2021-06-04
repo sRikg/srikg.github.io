@@ -3,7 +3,7 @@ Srik (Srikanth) Gorthy's Online Portfolio
 
 <img src="/images/Geekle.PNG" width="75%">
 
-## Natural Language Processing - Approaching Text
+### Natural Language Processing - Approaching Text
 
 [Video Link](https://geekle.us/video_cluster/1618230100619x816683697887510500) \(Will redirect to Geekle.us Website\)
 
@@ -12,7 +12,7 @@ Gave sessions at [Python for ML and AI Summit 2021](https://python.geekle.us/) h
 
 <img src="/images/SDNB.PNG" width="75%">
 
-## A perspective on Artificial Intelligence
+### A perspective on Artificial Intelligence
 
 [Video Link](https://www.youtube.com/watch?v=E_JYzytu8dI) \(Will redirect to youtube\)
 
@@ -20,7 +20,7 @@ Gave lecture for undergraduate engineering students at [SDNB Vaishnav College fo
 
 <img src="/images/jntu.PNG" width="75%">
 
-## Natural Language Processing
+### Natural Language Processing
 
 [Video Link](https://www.youtube.com/watch?v=E_JYzytu8dI) \(Will redirect to Google Drive Video\)
 
