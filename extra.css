@@ -13,11 +13,3 @@ img[alt$="><"] {
   margin: auto;
   float: none!important;
 }
-
-img[alt$="--"] {
-  display: block;
-  max-width: 50%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
