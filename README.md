@@ -5,6 +5,9 @@ Srik (Srikanth) Gorthy's Online Portfolio
 
 [<img src="/images/BITS-logo.png" width="5%">](https://www.bits-pilani.ac.in/)
 
+<img src="/images/calendar.png" width="5px">
+     
+ width="10px"> January 2009 - December 2012
 ##### BITS-Pilani, Hyderabad Campus
 ###### Hostel Representative, Department Joint Secretary, Language Association Core Member
 
