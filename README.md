@@ -6,9 +6,7 @@ Srik (Srikanth) Gorthy's Online Portfolio
 [<img src="/images/BITS-logo.png" width="5%">](https://www.bits-pilani.ac.in/)
 
 ##### BITS-Pilani, Hyderabad Campus
-###### Hostel Representative
-###### Department Joint Secretary
-###### Language Association Core Member
+###### Hostel Representative, Department Joint Secretary, Language Association Core Member
 
 [<img src="/images/IIMB-logo.png" width="5%">](https://www.iimb.ac.in/)
 
