@@ -1,8 +1,8 @@
-img[alt$="left"] {
+img[alt$=">"] {
   float: right;
 }
 
-img[alt$="right"] {
+img[alt$="<"] {
   float: left;
 }
 
