@@ -12,7 +12,11 @@ Srik (Srikanth) Gorthy's Online Portfolio
 ##### IIM, Bangalore
 
 
-<img src="/images/Geekle.PNG" width="75%">
+
+
+
+
+<img src="/images/Geekle.PNG" width="50%">
 
 ### Natural Language Processing - Approaching Text
 
@@ -21,7 +25,7 @@ Srik (Srikanth) Gorthy's Online Portfolio
 Gave sessions at [Python for ML and AI Summit 2021](https://python.geekle.us/) hosted by [Geekle.us](https://geekle.us/) in April '21
 
 
-<img src="/images/SDNB.PNG" width="75%">
+<img src="/images/SDNB.PNG" width="50%">
 
 ### A perspective on Artificial Intelligence
 
@@ -30,7 +34,7 @@ Gave sessions at [Python for ML and AI Summit 2021](https://python.geekle.us/) h
 Gave lecture for undergraduate engineering students at [SDNB Vaishnav College for Women, Chennai](https://www.sdnbvc.edu.in/)\[Affiliated to University of Madras\] in January '21
 
 
-<img src="/images/jntu.PNG" width="75%">
+<img src="/images/jntu.PNG" width="50%">
 
 ### Natural Language Processing
 
