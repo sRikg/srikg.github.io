@@ -11,10 +11,8 @@ Srik (Srikanth) Gorthy's Online Portfolio
 
 ##### IIM, Bangalore
 
-
-
-
-
+---
+---
 
 <img src="/images/Geekle.PNG" width="50%">
 
