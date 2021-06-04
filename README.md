@@ -3,13 +3,13 @@ Srik (Srikanth) Gorthy's Online Portfolio
 
 ## Education
 
-<img src="/images/BITS-logo.png" width="5%">
+[<img src="/images/BITS-logo.png" width="5%">](https://www.bits-pilani.ac.in/)
 
-[##### BITS-Pilani, Hyderabad Campus](https://www.bits-pilani.ac.in/)
+##### BITS-Pilani, Hyderabad Campus
 
-<img src="/images/IIMB-logo.png" width="5%">
+[<img src="/images/IIMB-logo.png" width="5%">](https://www.iimb.ac.in/)
 
-[##### IIM, Bangalore](https://www.iimb.ac.in/)
+##### IIM, Bangalore
 
 
 <img src="/images/Geekle.PNG" width="75%">
