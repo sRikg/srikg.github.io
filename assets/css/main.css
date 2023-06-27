@@ -2638,6 +2638,11 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		#header a, #header p {
+			font-size: 0.9em;
+			line-height: 1.6em;
+		}
+
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
